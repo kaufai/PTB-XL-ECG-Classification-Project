@@ -1,1 +1,4 @@
-
+model,micro_f1,macro_f1,macro_auc
+SVM (48 features),0.5985,0.4869,0.8246
+1D-CNN,0.7839,0.7226,0.93
+CNN-GRU,0.7821,0.7286,0.9304
