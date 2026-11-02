@@ -78,3 +78,6 @@ Package versions from the run that produced the results above are pinned in `req
 - Goldberger, A. L., et al. *PhysioBank, PhysioToolkit, and PhysioNet.* Circulation 101(23), e215-e220 (2000).
 
 The PTB-XL data is distributed through PhysioNet under its own open-access licence. Please cite the references above if you reuse the data.
+
+## License
+The code is released under the MIT License (see LICENSE). The PTB-XL data is not included and remains under its own PhysioNet licence.
