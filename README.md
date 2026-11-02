@@ -1,6 +1,6 @@
 # PTB-XL ECG Classification
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaufai/PTB-XL-ECG-Classification-Project/blob/main/PTB-XL_dataset.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaufai/PTB-XL-ECG-Classification-Project/blob/main/PTB-XL_dataset_v4.ipynb)
 
 Multi-label classification of 12-lead ECGs into five diagnostic superclasses on the public [PTB-XL dataset](https://physionet.org/content/ptb-xl/1.0.3/), comparing a classical SVM baseline with a 1D-CNN and a hybrid CNN-GRU. The whole pipeline (download, preprocessing, training, evaluation) runs from one notebook, `PTB-XL_dataset_v4.ipynb`, in Google Colab.
 
